@@ -28,13 +28,13 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/IMK312
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: ""
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/IMK312
 superuser: true
 user_groups:
 - Researchers
